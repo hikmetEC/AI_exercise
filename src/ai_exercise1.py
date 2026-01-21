@@ -1,3 +1,5 @@
+
+"""
 #AI exercises
 
 #This will be about classifying MNIST dataset
@@ -11,3 +13,7 @@ print(numpy.__version__)
 print("Hello world!")
 
 #okay it's working a bit so I will implement a source control with github now, ok did it
+
+Time to really start working
+"""
+
