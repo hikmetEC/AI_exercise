@@ -10,4 +10,4 @@ import numpy
 print(numpy.__version__)
 print("Hello world!")
 
-#okay it's working a bit so I will implement a source control with github now
+#okay it's working a bit so I will implement a source control with github now, ok did it
